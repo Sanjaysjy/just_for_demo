@@ -7,3 +7,5 @@ b=80
 print(a+b)
 if a==b:
     print("both are same ")
+else:
+    print("its not same.....  ! ")
